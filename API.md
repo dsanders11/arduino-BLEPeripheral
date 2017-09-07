@@ -324,7 +324,7 @@ void bleCharacteristicEventHandler(BLECentral& central, BLECharacteristic& chara
 ```c
 BLE<Data Type>Characteristic(const char* uuid, unsigned char properties);
 ```
-See ```BLECharacteritic```
+See ```BLECharacteristic```
 
 ## Get value
 ```c
